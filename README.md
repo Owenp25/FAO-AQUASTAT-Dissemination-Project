@@ -2,10 +2,10 @@
 
 ## Introduction 
 
-For this project I wanted to visualize some geographic and population data and I found the FAO AQUASTAT Dissemination database: [link]([url](https://data.apps.fao.org/aquastat/?lang=en)https://data.apps.fao.org/aquastat/?lang=en). This site provides free access to over 180 variables and indicators by country from 1960 to 2020. These variables are related to geography and population, pressure on water resources, environment and health, irrigation and draingage development, water resources, and water use. I chose to work with a selection of interesting variables from the geography and population section. I decided to create three dashboards: social metrics, economic metrics, and agricultural metrics. All three of these visualize data from 2020 as well as the trend of a few of the variables over multiple year stretches. 
+For this project I wanted to visualize some geographic and population data and I found the FAO AQUASTAT Dissemination database: [link](https://data.apps.fao.org/aquastat/?lang=en). This site provides free access to over 180 variables and indicators by country from 1960 to 2020. These variables are related to geography and population, pressure on water resources, environment and health, irrigation and draingage development, water resources, and water use. I chose to work with a selection of interesting variables from the geography and population section. I decided to create three dashboards: social metrics, economic metrics, and agricultural metrics. All three of these visualize data from 2020 as well as the trend of a few of the variables over multiple year stretches. 
 
 ## Interact With The Dashboard!
-To view the full dashboard and to interact with it, check it out at my Tableau Public Profile: [link]([url](https://public.tableau.com/app/profile/owen.patrick/vizzes)https://public.tableau.com/app/profile/owen.patrick/vizzes).
+To view the full dashboard and to interact with it, check it out at my Tableau Public Profile: [link](https://public.tableau.com/app/profile/owen.patrick/vizzes).
 
 ## Dashboard Screen Shots
 
