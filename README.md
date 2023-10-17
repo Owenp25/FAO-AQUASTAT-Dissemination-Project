@@ -7,7 +7,7 @@ For this project I wanted to visualize some geographic and population data and I
 ## Interact With The Dashboard!
 To view the full dashboard and to interact with it, check it out at my Tableau Public Profile: [link](https://public.tableau.com/app/profile/owen.patrick/vizzes).
 
-## Dashboard Screen Shots
+## Dashboard Screen Shots & Analysis
 
 ![Social Metrics](https://github.com/Owenp25/FAO-AQUASTAT-Dissemination-Project/assets/77632947/e72b5136-6be7-4466-a786-005ede564035)
 
